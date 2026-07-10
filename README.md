@@ -1,5 +1,5 @@
 # Joint-Optimization-Framework-for-High-Fidelity-MSFA
-About Code of  "A  Joint Optimization Framework for High-Fidelity Multispectral Filter Array Imaging" The code is coming soon. 
+About Code of  "A  Joint Optimization Framework for High-Fidelity Multispectral Filter Array Imaging". 
 ## Introduction
 We built a deep learning framework for the joint optimization of the spectral response function(SRF), the MSFA pattern, spatial demosaicking(SpaDM), and spectral superresolution(SpeSR), thereby achieving significant improvements in spatial and spectral reconstruction quality
 ## Results
